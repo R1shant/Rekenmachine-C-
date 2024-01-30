@@ -1,1 +1,1 @@
-# Rekenmachine-C-
+# Simpele rekenmachine in C#
